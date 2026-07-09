@@ -251,8 +251,8 @@ Through this project, I learned:
 
 **Naveen Rathore**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/naveen-rathore17/
+- LinkedIn: https://www.linkedin.com/in/naveen-rathore-1677102a3/
 
 ---
 
